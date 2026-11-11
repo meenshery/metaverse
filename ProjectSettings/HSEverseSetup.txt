@@ -1,0 +1,2 @@
+HSEverse project setup done 2026-11-11 17:41
+Delete this file to run the setup again on the next editor load.
